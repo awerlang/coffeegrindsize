@@ -4,3 +4,22 @@ Please see this GitHub repo developed by Chris Saterlee for OS X and Windows ins
 https://github.com/csatt/coffeegrindsize/releases/tag/v1.0.0
 
 Thanks a lot Chris !
+
+--
+
+Prerequisites
+-------------
+
+* python3-tk
+
+Setting up
+----------
+
+$ python -m venv ./build
+$ source ./build/bin/activate
+$ pip install -r requirements.txt
+
+Run
+---
+
+$ python3 coffeegrindsize.py
